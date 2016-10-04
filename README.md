@@ -17,4 +17,4 @@ Django gulp example
 
 ## More info
 
-   $ http://slides.com/tomasgarzon/deck
+   Please wait until PyCon Spain 2016 ends ;)
