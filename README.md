@@ -17,4 +17,4 @@ Django gulp example
 
 ## More info
 
-  http://slides.com/tomasgarzon/deck
+  http://slides.com/tomasgarzon/django-gulp
